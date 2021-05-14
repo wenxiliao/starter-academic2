@@ -20,10 +20,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- #description: 100%
+- #description: Programming Language
   icon: python
   icon_pack: fab
-  name: Programming Language
+  name: Python
 - #description: 10%
   icon: camera-retro
   icon_pack: fas
