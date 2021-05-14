@@ -54,7 +54,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/Wenxi Liao CV.pdf
+   link: media/Wenxi_Liao_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +65,4 @@ highlight_name: false
 
 Wenxi Liao is a PhD candidate at the University of Toronto.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Wenxi Liao CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Wenxi_Liao_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
