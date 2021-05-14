@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '/#contact'
-  link: 'wenxi.liao@mail.utoronto.ca'
+  link: 'mailto:wenxi.liao@mail.utoronto.ca'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=VB55UHsAAAAJ&hl=en&oi=ao
