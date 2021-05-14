@@ -63,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a PhD candidate (September 2019 - Present) at the University of Toronto. My research focuses on biochar effects on plant responses and water quality on green roofs. 
+I am currently a PhD candidate (Direct Entry: 2019 - Present) at the University of Toronto. My research focuses on biochar effects on plant responses and water quality on green roofs. 
 
 I received my Honours Bachelor of Science (HBSc) degree with high distinction from the University of Toronto (2015 - 2019), with double majors in Forest Conservation and Physical Geography and minor in GIS.
 
