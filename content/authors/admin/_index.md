@@ -35,7 +35,7 @@ education:
     year: 2015 - 2019
 
 # Social/Academic Networking
-# For available icons, see: 
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -52,9 +52,10 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/Wenxi_Liao_CV.pdf
+ - icon: cv
+   icon_pack: ai
+   #link: media/Wenxi_Liao_CV.pdf
+   link: static/media/Wenxi_Liao_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +66,4 @@ highlight_name: false
 
 Wenxi Liao is a PhD candidate at the University of Toronto.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Wenxi_Liao_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/Wenxi_Liao_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
