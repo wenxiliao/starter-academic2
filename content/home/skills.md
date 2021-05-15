@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Remote Sensing/GIS
 - description: Data, Statistics, and Grapics
-  icon: analytics
+  icon: chart-line
   icon_pack: fas
   name: Data Analysis
 - description: National Athlete of 2nd Grade
