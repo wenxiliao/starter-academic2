@@ -61,8 +61,8 @@ experience:
     company: Centre for Global Change Science (CGCS), Universty of Toronto
     company_url: 'https://cgcs.physics.utoronto.ca/'
     location: Toronto, ON, Canada
-    date_start: '2018-05'
-    date_end: '2018-08'
+    date_start: '2018-05-01'
+    date_end: '2018-08-31'
     description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems, which contributed to biochar manufacturing and application
 
 
