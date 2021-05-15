@@ -22,7 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
   - title: PhD Candidate
     company: Institute of Forestry and Conservation, Universty of Toronto
     company_url: 'https://academic.daniels.utoronto.ca/forestry/'
