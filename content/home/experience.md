@@ -50,11 +50,24 @@ experience:
   - title: Teaching Assistant
     company: Universty of Toronto
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: chalkboard-teacher
+    location: Toronto, ON, Canada & Zoom
+    date_start: '2019-09'
+    date_end: '2021-04'
+    description: |2-
+        Responsibilities include:
+        
+        * delivered tutorials and managed discussion sessions online, and provided valuable supports to students
+        * graded exams and assignments, with constructive feedback offered
+
+  - title: Research Intern
+    company: Centre for Global Change Science (CGCS), Universty of Toronto
+    company_url: 'https://cgcs.physics.utoronto.ca/'
+    company_logo: vial
+    location: Toronto, ON, Canada
+    date_start: '2018-05'
+    date_end: '2018-08'
+    description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems, which contributed to biochar manufacturing and application
 
 design:
   columns: '2'
