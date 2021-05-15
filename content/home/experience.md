@@ -45,38 +45,6 @@ experience:
     date_end: ''
     description: Research focuses on plant performance and water quality on green roofs.
         
- - title: Teaching Assistant
-    company: University of Toronto
-    #company_url: ''
-    location: Toronto, ON, Canada
-    date_start: '2019-09-01'
-    date_end: '2021-04-31'
-    description: |2-
-        Responsibilities include:
-        
-        * delivered tutorials and managed discussion sessions online, and provided valuable supports to students
-        * graded exams and assignments, with constructive feedback offered
-
-  - title: Research Intern
-    company: Centre for Global Change Science (CGCS), Universty of Toronto
-    company_url: 'https://cgcs.physics.utoronto.ca/'
-    location: Toronto, ON, Canada
-    date_start: '2018-05-01'
-    date_end: '2018-08-31'
-    description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems, which contributed to biochar manufacturing and application
-
-  - title: Research Assistant
-    company: Forest Ecology and Silviculture lab, University of Toronto
-    company_url: 'https://academic.daniels.utoronto.ca/forestry/thomas-lab/'
-    location: Toronto, ON, Canada
-    date_start: '2017-01-01'
-    date_end: '2019-05-31'
-    description: |2-
-        
-        * Carried out independent research on biochar, including designed and conducted experiments
-        * Collected and organized data for biochar property and plant physiology, and analyzed the data using R and Excel, which provided statistical basis for the research arguments
-        * Collaborated with PhD students on biochar application on urban forests project and soil greenhouse gas emission project, which improved the experiment design and accelerated the research process
-        * Entered and managed the data accurately and effectively, which increased the efficiency of the research
 
 design:
   columns: '2'
