@@ -65,6 +65,18 @@ experience:
     date_end: '2018-08-31'
     description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems, which contributed to biochar manufacturing and application
 
+  - title: Research Assistant
+    company: Forest Ecology and Silviculture lab, University of Toronto
+    company_url: 'https://academic.daniels.utoronto.ca/forestry/thomas-lab/'
+    location: Toronto, ON, Canada
+    date_start: '2017-01-01'
+    date_end: '2019-05-31'
+    description: |2-
+        
+        * Carried out independent research on biochar, including designed and conducted experiments
+        * Collected and organized data for biochar property and plant physiology, and analyzed the data using R and Excel, which provided statistical basis for the research arguments
+        * Collaborated with PhD students on biochar application on urban forests project and soil greenhouse gas emission project, which improved the experiment design and accelerated the research process
+        * Entered and managed the data accurately and effectively, which increased the efficiency of the research
 
 design:
   columns: '2'
