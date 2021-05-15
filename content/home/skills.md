@@ -20,14 +20,18 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- #description: Programming Language
+- description: Programming Language
   icon: python
   icon_pack: fab
   name: Python
-- #description: 10%
-  icon: camera-retro
+- description: Satellite and UAV
+  icon: satellite
   icon_pack: fas
-  name: Photography
+  name: Remote Sensing/GIS
+- description: Data, Statistics, and Grapics
+  icon: analytics
+  icon_pack: fas
+  name: Data Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
