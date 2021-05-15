@@ -28,7 +28,7 @@ experience:
     #company_logo: org-x
     location: Toronto, ON, Canada
     date_start: '2019-09-01'
-    date_end: '2024-08-31'
+    date_end: ''
     description: Research focuses on plant performance and water quality on green roofs.
     
   - title: Graduate Student Library Assistant (GSLA)
