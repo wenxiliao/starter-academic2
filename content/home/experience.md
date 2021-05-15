@@ -47,7 +47,7 @@ experience:
         
  - title: Teaching Assistant
     company: University of Toronto
-    company_url: ''
+    #company_url: ''
     location: Toronto, ON, Canada
     date_start: '2019-09-01'
     date_end: '2021-04-31'
@@ -79,5 +79,5 @@ experience:
         * Entered and managed the data accurately and effectively, which increased the efficiency of the research
 
 design:
-  columns: '5'
+  columns: '2'
 ---
