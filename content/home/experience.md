@@ -27,7 +27,7 @@ experience:
     company_url: 'https://academic.daniels.utoronto.ca/forestry/'
     company_logo: org-x
     location: Toronto, ON, Canada
-    date_start: ''2019-09'
+    date_start: '2019-09'
     date_end: '2024-08'
     description: Research focuses on plant performance and water quality on green roofs.
     
