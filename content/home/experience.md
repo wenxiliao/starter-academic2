@@ -25,7 +25,7 @@ experience:
   - title: PhD Candidate
     company: Institute of Forestry and Conservation, University of Toronto
     company_url: 'https://academic.daniels.utoronto.ca/forestry/'
-    company_logo: org-x
+    #company_logo: org-x
     location: Toronto, ON, Canada
     date_start: '2019-09-01'
     date_end: '2024-08-31'
