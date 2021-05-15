@@ -35,7 +35,7 @@ experience:
   - title: Graduate Student Library Assistant (GSLA)
     company: Universty of Toronto Libraries
     company_url: 'https://onesearch.library.utoronto.ca/'
-    company_logo: book-open
+    company_logo: book-reader
     location: Toronto, ON, Canada
     date_start: '2019-11'
     date_end: ''
