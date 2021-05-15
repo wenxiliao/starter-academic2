@@ -22,13 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Candidate
-    company: Institute of Forestry and Conservation, University of Toronto
-    company_url: 'https://academic.daniels.utoronto.ca/forestry/'
-    location: Toronto, ON, Canada
-    date_start: '2019-09'
-    date_end: '2024-08 (Expected Graduation)'
-    description: Research focuses on plant performance and water quality on green roofs.
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Graduate Student Library Assistant (GSLA)
     company: University of Toronto Libraries
