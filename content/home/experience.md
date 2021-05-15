@@ -22,22 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+
+  - title: PhD Candidate
+    company: Institute of Forestry and Conservation, Universty of Toronto
+    company_url: 'https://academic.daniels.utoronto.ca/forestry/'
+    company_logo: university
+    location: Toronto, ON, Canada
+    date_start: '2019-09'
+    date_end: '2024-08 (Expected Graduation)'
+    description: Research focuses on plant performance and water quality on green roofs.
+    
+  - title: Graduate Student Library Assistant (GSLA)
+    company: Universty of Toronto Libraries
+    company_url: 'https://onesearch.library.utoronto.ca/'
+    company_logo: book
+    location: Toronto, ON, Canada
+    date_start: '2019-11'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * gathering, normalizing and analyzing data and statistics about various library activities and holdings
+        * updating existing data stores with new statistics
+        * assisting with the preparation of visualizations and reports
+        * using Tableau to create visualizations
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant
+    company: Universty of Toronto
     company_url: ''
     company_logo: org-x
     location: California
