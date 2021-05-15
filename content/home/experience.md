@@ -45,19 +45,18 @@ experience:
         * assisting with the preparation of visualizations and reports
         * using Tableau to create visualizations
 
-  - title: ABC
-    company: University of Toronto Libraries
-    company_url: 'https://onesearch.library.utoronto.ca/'
+  - title: Teaching Assistant
+    company: University of Toronto
+    #company_url: 'https://onesearch.library.utoronto.ca/'
     location: Toronto, ON, Canada
-    date_start: '2020-11-01'
-    date_end: ''
+    date_start: '2019-09-01'
+    date_end: '2021-04-31'
     description: |2-
         Responsibilities include:
         
-        * gathering, normalizing and analyzing data and statistics about various library activities and holdings
-        * updating existing data stores with new statistics
-        * assisting with the preparation of visualizations and reports
-        * using Tableau to create visualizations
+        * delivered tutorials and managed discussion sessions online, and provided valuable supports to students
+        * graded exams and assignments, with constructive feedback offered
+
         
 
 design:
