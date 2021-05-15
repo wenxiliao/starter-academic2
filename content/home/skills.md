@@ -35,7 +35,15 @@ feature:
 - description: National Athlete of 2nd Grade
   icon: table-tennis
   icon_pack: fas
-  name: Table Tennis Player
+  name: Table Tennis
+- #description: National Athlete of 2nd Grade
+  icon: skiing
+  icon_pack: fas
+  name: Skiing
+- #description: National Athlete of 2nd Grade
+  icon: guitar
+  icon_pack: fas
+  name: Guitar
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
