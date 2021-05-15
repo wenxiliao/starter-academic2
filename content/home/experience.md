@@ -31,19 +31,7 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
-  - title: Graduate Student Library Assistant (GSLA)
-    company: University of Toronto Libraries
-    company_url: 'https://onesearch.library.utoronto.ca/'
-    location: Toronto, ON, Canada
-    date_start: '2019-11'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * gathering, normalizing and analyzing data and statistics about various library activities and holdings
-        * updating existing data stores with new statistics
-        * assisting with the preparation of visualizations and reports
-        * using Tableau to create visualizations
+
         
 
 design:
