@@ -38,7 +38,7 @@ experience:
     company_logo: book
     location: Toronto, ON, Canada
     date_start: '2019-11'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -53,7 +53,7 @@ experience:
     company_logo: chalkboard-teacher
     location: Toronto, ON, Canada & Zoom
     date_start: '2019-09'
-    date_end: '2021-04'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -67,7 +67,8 @@ experience:
     location: Toronto, ON, Canada
     date_start: '2018-05'
     date_end: '2018-08'
-    description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems, which contributed to biochar manufacturing and application
+    description: Continued on the independent research on biochar and published the 1st-author manuscript in a peer-reviewed scientific journal – Soil Systems,         which contributed to biochar manufacturing and application
+
 
 design:
   columns: '2'
