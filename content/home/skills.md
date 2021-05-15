@@ -32,6 +32,10 @@ feature:
   icon: analytics
   icon_pack: fas
   name: Data Analysis
+- description: National Athlete of 2nd Grade
+  icon: table-tennis
+  icon_pack: fas
+  name: Table Tennis Player
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
