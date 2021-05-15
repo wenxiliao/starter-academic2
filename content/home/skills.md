@@ -40,10 +40,7 @@ feature:
   icon: skiing
   icon_pack: fas
   name: Skiing
-- #description: National Athlete of 2nd Grade
-  icon: guitar
-  icon_pack: fas
-  name: Guitar
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
