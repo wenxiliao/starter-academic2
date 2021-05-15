@@ -78,7 +78,7 @@ experience:
         * Collaborated with PhD students on biochar application on urban forests project and soil greenhouse gas emission project, which improved the experiment design and accelerated the research process
         * Entered and managed the data accurately and effectively, which increased the efficiency of the research
 
-  - title: Research Assistant
+  - title: Research/Lab Assistant
     company: Remote Sensing and GIS lab, University of Toronto
     company_url: 'http://faculty.geog.utoronto.ca/Chen/Chen's%20homepage/home.htm'
     location: Toronto, ON, Canada
