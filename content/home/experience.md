@@ -79,5 +79,5 @@ experience:
         * Entered and managed the data accurately and effectively, which increased the efficiency of the research
 
 design:
-  columns: '2'
+  columns: '5'
 ---
