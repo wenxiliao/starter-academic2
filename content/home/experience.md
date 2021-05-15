@@ -50,7 +50,7 @@ experience:
     #company_url: 'https://onesearch.library.utoronto.ca/'
     location: Toronto, ON, Canada
     date_start: '2019-09-01'
-    date_end: '2021-04-31'
+    date_end: '2021-04-30'
     description: |2-
         Responsibilities include:
         
