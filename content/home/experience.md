@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Candidate
+    company: Institute of Forestry and Conservation, University of Toronto
+    company_url: 'https://academic.daniels.utoronto.ca/forestry/'
+    #company_logo: org-x
+    location: Toronto, ON, Canada
+    date_start: '2019-09-01'
+    date_end: ''
+    description: Research focuses on plant performance and water quality on green roofs.
+    
   - title: Graduate Student Library Assistant (GSLA)
     company: University of Toronto Libraries
     company_url: 'https://onesearch.library.utoronto.ca/'
@@ -36,14 +45,19 @@ experience:
         * assisting with the preparation of visualizations and reports
         * using Tableau to create visualizations
 
-  - title: PhD Candidate
-    company: Institute of Forestry and Conservation, University of Toronto
-    company_url: 'https://academic.daniels.utoronto.ca/forestry/'
-    #company_logo: org-x
+  - title: ABC
+    company: University of Toronto Libraries
+    company_url: 'https://onesearch.library.utoronto.ca/'
     location: Toronto, ON, Canada
-    date_start: '2019-09-01'
+    date_start: '2020-11-01'
     date_end: ''
-    description: Research focuses on plant performance and water quality on green roofs.
+    description: |2-
+        Responsibilities include:
+        
+        * gathering, normalizing and analyzing data and statistics about various library activities and holdings
+        * updating existing data stores with new statistics
+        * assisting with the preparation of visualizations and reports
+        * using Tableau to create visualizations
         
 
 design:
