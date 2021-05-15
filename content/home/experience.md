@@ -26,7 +26,6 @@ experience:
   - title: PhD Candidate
     company: Institute of Forestry and Conservation, Universty of Toronto
     company_url: 'https://academic.daniels.utoronto.ca/forestry/'
-    company_logo: ''
     location: Toronto, ON, Canada
     date_start: '2019-09'
     date_end: '2024-08 (Expected Graduation)'
@@ -35,7 +34,6 @@ experience:
   - title: Graduate Student Library Assistant (GSLA)
     company: Universty of Toronto Libraries
     company_url: 'https://onesearch.library.utoronto.ca/'
-    company_logo: ''
     location: Toronto, ON, Canada
     date_start: '2019-11'
     date_end: ''
@@ -50,7 +48,6 @@ experience:
   - title: Teaching Assistant
     company: Universty of Toronto
     company_url: ''
-    company_logo: ''
     location: Toronto, ON, Canada & Zoom
     date_start: '2019-09'
     date_end: ''
@@ -64,7 +61,6 @@ experience:
   - title: Research Intern
     company: Centre for Global Change Science (CGCS), Universty of Toronto
     company_url: 'https://cgcs.physics.utoronto.ca/'
-    company_logo: ''
     location: Toronto, ON, Canada
     date_start: '2018-05'
     date_end: '2018-08'
