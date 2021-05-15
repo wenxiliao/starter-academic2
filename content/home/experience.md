@@ -46,9 +46,9 @@ experience:
     description: Research focuses on plant performance and water quality on green roofs.
         
  - title: Teaching Assistant
-    company: Universty of Toronto
+    company: University of Toronto
     company_url: ''
-    location: Toronto, ON, Canada & Zoom
+    location: Toronto, ON, Canada
     date_start: '2019-09-01'
     date_end: '2021-04-31'
     description: |2-
