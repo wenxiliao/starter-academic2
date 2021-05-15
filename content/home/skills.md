@@ -36,7 +36,7 @@ feature:
   icon: table-tennis
   icon_pack: fas
   name: Table Tennis
-- #description: National Athlete of 2nd Grade
+- description: Intermediate to Advanced
   icon: skiing
   icon_pack: fas
   name: Skiing
