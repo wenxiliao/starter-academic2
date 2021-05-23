@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: Soil Systems (MDPI)
 #publication_short: In *ICW*
 
-abstract: We show for the ﬁrst time that post-processing of biochars by sieving and grinding has distinct effects on biochar chemical and physical properties, and that resulting differences in properties have large but strongly species-speciﬁc effects on plant performance in biochar-amended substrates.
+abstract: It has become common practice in soil applications of biochar to use ground and/or sieved material to reduce particle size and so enhance mixing and surface contact between soils and char particles. Smaller particle sizes of biochars have been suggested to enhance liming effects and nutrient exchange, and potentially to increase water storage capacity; however, data remains scarce and effects on plant growth responses have not been examined. We manipulated biochar particle size by sieving or grinding to generate particles in two size ranges (0.06–0.5 mm and 2–4 mm), and examined effects on soil pH, soil water retention, and plant physiological and growth performance of two test species 
 
 # Summary. An optional shortened abstract.
 # summary: post-processing of biochars by sieving and grinding has distinct effects on biochar chemical and physical properties, and that resulting differences in properties have large but strongly species-speciﬁc effects on plant performance in biochar-amended substrates.
