@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Custom Link
-  url: https://www.mdpi.com/2571-8789/3/1/14
+#- name: Custom Link
+#  url: https://www.mdpi.com/2571-8789/3/1/14
 
 url_pdf: 'publication/liao-biochar-2019/liao-biochar-2019.pdf'
 url_code: ''
