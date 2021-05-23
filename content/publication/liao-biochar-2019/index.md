@@ -6,6 +6,7 @@ title: "Biochar particle size and post-pyrolysis mechanical processing affect so
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Sean Thomas
 
 # Author notes (optional)
 #author_notes:
@@ -13,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2019-02-14T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/soilsystems3010014"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -40,10 +41,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Custom Link
+  url: https://www.mdpi.com/2571-8789/3/1/14
 
-url_pdf: ''
+url_pdf: 'publication/liao-biochar-2019/liao-biochar-2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,8 +80,8 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
