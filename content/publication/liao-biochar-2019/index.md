@@ -6,12 +6,11 @@ title: "Biochar particle size and post-pyrolysis mechanical processing affect so
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2019-02-14T00:00:00Z"
 doi: ""
@@ -26,10 +25,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+#publication: In *Wowchemy Conference*
+#publication_short: In *ICW*
 
-abstract: It has become common practice in soil applications of biochar to use ground and/or sieved material to reduce particle size and so enhance mixing and surface contact between soils and char particles. Smaller particle sizes of biochars have been suggested to enhance liming effects and nutrient exchange, and potentially to increase water storage capacity; however, data remains scarce and effects on plant growth responses have not been examined. We manipulated biochar particle size by sieving or grinding to generate particles in two size ranges (0.06–0.5 mm and 2–4 mm), and examined effects on soil pH, soil water retention, and plant physiological and growth performance of two test species (ryegrass: Lolium multiﬂorum, and velvetleaf: Abutilon theophrasti) grown in a granitic sand culture. The small particle sieved biochar had the largest liming effect, increasing substrate pH values by an additional 0.3 pH units compared to other biochars. Small particle size biochar showed enhanced water retention capacity, and sieved biochars showed 91%–258% larger water retention capacity than ground biochars of similar particle size, likely because sieved particles were more elongated than ground particles, and thus increased soil interpore volume. The two plant species tested showed distinct patterns of response to biochar treatments: ryegrass showed a better growth response to large biochar particles, while velvetleaf showed the highest response to the small, sieved biochar treatment. We show for the ﬁrst time that post-processing of biochars by sieving and grinding has distinct effects on biochar chemical and physical properties, and that resulting differences in properties have large but strongly species-speciﬁc effects on plant performance in biochar-amended substrates.
+abstract: It has become common practice in soil applications of biochar to use ground and/or sieved material to reduce particle size and so enhance mixing and surface contact between soils and char particles.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
